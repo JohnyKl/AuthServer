@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+AuthServerNew\lib
+AuthServerNew\out
+AuthClient\dist
