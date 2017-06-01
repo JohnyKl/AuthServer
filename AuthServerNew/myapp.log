@@ -1,0 +1,15 @@
+2015-10-27 15:05:45       org.hibernate.internal.CoreLogging.messageLogger       ( 28) DEBUG :Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2015-10-27 15:05:46 rnal.DriverManagerConnectionProviderImpl.configure           ( 76) WARN  :HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2015-10-27 15:06:35       org.hibernate.internal.CoreLogging.messageLogger       ( 28) DEBUG :Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2015-10-27 15:06:36 rnal.DriverManagerConnectionProviderImpl.configure           ( 76) WARN  :HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2015-10-27 15:06:45 apache.mina.filter.logging.LoggingFilter.log                 (159) INFO  :CREATED
+2015-10-27 15:06:45       com.belsoft.BelsoftProtocolHandler.sessionCreated      ( 67) DEBUG :Session created. Remote IP address:/127.0.0.1:59357
+2015-10-27 15:06:45 apache.mina.filter.logging.LoggingFilter.log                 (159) INFO  :OPENED
+2015-10-27 15:06:46 he.mina.filter.codec.ProtocolCodecFilter.messageReceived     (220) DEBUG :Processing a MESSAGE_RECEIVED for session 1
+2015-10-27 15:06:46 apache.mina.filter.logging.LoggingFilter.log                 (141) INFO  :RECEIVED: com.belsoft.protocol.BelsoftRequest@d6bb3a
+2015-10-27 15:06:46       com.belsoft.BelsoftProtocolHandler.messageReceived     (154) DEBUG :Incoming Message:10000
+2015-10-27 15:06:46       com.belsoft.BelsoftProtocolHandler.messageReceived     (157) DEBUG :Remote address:/127.0.0.1:59357
+2015-10-27 15:06:46       com.belsoft.BelsoftProtocolHandler.messageReceived     (164) DEBUG :Total memory: 20952 kb. Free memory: 5312 kb. Max memory: 253440 kb. Memory use: 15639 kb (2% free)
+2015-10-27 15:06:46       com.belsoft.BelsoftProtocolHandler.messageReceived     (243) DEBUG :Work time: 8 msec.
+2015-10-27 15:06:46 apache.mina.filter.logging.LoggingFilter.log                 (141) INFO  :SENT: com.belsoft.packet.DialogMessage@403739
+2015-10-27 15:06:46 apache.mina.filter.logging.LoggingFilter.log                 (159) INFO  :CLOSED
